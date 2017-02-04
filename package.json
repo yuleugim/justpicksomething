@@ -1,0 +1,19 @@
+{
+  "name": "justpicksomething",
+  "version": "1.0.0",
+  "description": "An app for us indecisive folk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuleugim/justpicksomething.git"
+  },
+  "author": "yuleugim <yuleugim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuleugim/justpicksomething/issues"
+  },
+  "homepage": "https://github.com/yuleugim/justpicksomething#readme"
+}
